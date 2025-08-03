@@ -39,11 +39,11 @@
 - 🧠 Love to learn and research about new technologies  
 - 🚀 Built projects like:
   - 🔹 Online Food Shop
-  - 🔹 Portfolio Website(https://abdurrahmancce.github.io/Personal-Resume-Website/)
+  - 🔹 Portfolio Website 
   - 🔹 Temperature Converter
   - 🔹 Quiz App
   - 🔹 Snake Game
-  - 🔹 Tic-Tac-Toe (https://abdurrahmancce.github.io/Tic-Tac-Toe-Game-by-Web-Project/)
+  - 🔹 Tic-Tac-Toe 
   - 🔹 Calculator
   - 🔹 Passward Generator
 
