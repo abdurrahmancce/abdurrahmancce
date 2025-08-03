@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/abdur-rahman-akash-60450b2aa/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" height="30"/></a>
   <a href="https://x.com/Abdurrahman8507" target="_blank"><img src="https://img.icons8.com/color/48/twitterx--v1.png" height="30"/></a>
   <a href="mailto:akash.abdur.2002@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="30"/></a>
+  <a href="https://www.facebook.com/abdur.rahman.495281" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" height="30" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/_rahman_akash91/" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" height="30" alt="Instagram"/></a>
+  <a href="https://codeforces.com/profile/akash.abdur.2002" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="30" alt="Codeforces"/></a>
 </p>
 
 ---
