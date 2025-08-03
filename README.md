@@ -12,9 +12,9 @@
 
 ### 📲 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/abdurrahmancce" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" height="30"/></a>
-  <a href="https://x.com/abdurrahmancce" target="_blank"><img src="https://img.icons8.com/color/48/twitterx--v1.png" height="30"/></a>
-  <a href="mailto:abdurrahmanakash585@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="30"/></a>
+  <a href="https://https://www.linkedin.com/in/abdur-rahman-akash-60450b2aa" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" height="30"/></a>
+  <a href="https://https://x.com/Abdurrahman8507" target="_blank"><img src="https://img.icons8.com/color/48/twitterx--v1.png" height="30"/></a>
+  <a href="mailto:akash.abdur.2002@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="30"/></a>
 </p>
 
 ---
@@ -30,16 +30,6 @@
   <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/netbeans.png"/>
   <img src="https://img.icons8.com/color/48/eclipse.png"/>
-</p>
-
----
-
-### 🔥 My Stats :
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/abdurrahmancce&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/abdurrahmancce&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/abdurrahmancce&theme=radical" />
 </p>
 
 ---
