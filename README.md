@@ -10,7 +10,7 @@
 
 ### 📲 Connect with me:
 <p align="left">
-  <a href="https:www.linkedin.com/in/abdur-rahman-akash-60450b2aa" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" height="30"/></a>
+  <a href="https://www.linkedin.com/in/abdur-rahman-akash-60450b2aa/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" height="30"/></a>
   <a href="https://x.com/Abdurrahman8507" target="_blank"><img src="https://img.icons8.com/color/48/twitterx--v1.png" height="30"/></a>
   <a href="mailto:akash.abdur.2002@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="30"/></a>
 </p>
@@ -37,11 +37,11 @@
 - 🧠 Love to learn and research about new technologies  
 - 🚀 Built projects like:
   - 🔹 Online Food Shop
-  - 🔹 Portfolio Website
+  - 🔹 Portfolio Website(https://abdurrahmancce.github.io/Personal-Resume-Website/)
   - 🔹 Temperature Converter
   - 🔹 Quiz App
   - 🔹 Snake Game
-  - 🔹 Tic-Tac-Toe (with AI)
+  - 🔹 Tic-Tac-Toe (https://abdurrahmancce.github.io/Tic-Tac-Toe-Game-by-Web-Project/)
 
 ---
 
