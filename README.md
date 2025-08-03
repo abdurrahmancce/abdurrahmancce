@@ -29,7 +29,6 @@
   <img src="https://img.icons8.com/color/48/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/python--v1.png"/>
   <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/netbeans.png"/>
   <img src="https://img.icons8.com/color/48/eclipse.png"/>
 </p>
 
@@ -45,6 +44,8 @@
   - 🔹 Quiz App
   - 🔹 Snake Game
   - 🔹 Tic-Tac-Toe (https://abdurrahmancce.github.io/Tic-Tac-Toe-Game-by-Web-Project/)
+  - 🔹 Calculator
+  - 🔹 Passward Generator
 
 ---
 
