@@ -5,7 +5,7 @@
 - 🛠️ Skilled in **C, C++, Java, Python, Django, React, HTML, CSS, JavaScript**
 - 📬 Reach me at: **akash.abdur.2002@gmail.com**
 - 🌐 Portfolio:(https://abdurrahmancce.github.io/Personal-Resume-Website/)
-- 📄 View My CV: [Click here to open CV](https://drive.google.com/file/d/1M1QKWkruIK3cfXP5DZl8mpL4BUqqUqFK/view?usp=drive_link) 
+- 📄 View My CV: [Click here to open CV](https://drive.google.com/file/d/1P-odZ7D1j4V4GWLnQyQcXNzvRzPSq12b/view?usp=drive_link) 
 
 ---
 
