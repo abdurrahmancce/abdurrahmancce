@@ -6,7 +6,7 @@
 - 📬 Reach me at: **akash.abdur.2002@gmail.com**
 - 🌐 Portfolio:(https://abdurrahmancce.github.io/Personal-Resume-Website/)
 - 📄 View My CV: [Click here to open CV](https://drive.google.com/file/d/1P-odZ7D1j4V4GWLnQyQcXNzvRzPSq12b/view?usp=drive_link) 
-
+- 🏆 Achievements:✨ View all certificates in the [Click here to open CV](https://github.com/abdurrahmancce/Achievements)
 ---
 
 ### 📲 Connect with me:
