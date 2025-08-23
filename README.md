@@ -39,15 +39,21 @@
 - ✅ Participated in programming contests, webinars, and workshops  
 - 🧠 Love to learn and research about new technologies  
 - 🚀 Built projects like:
+  - 🔹 Personal-Resume-Website
   - 🔹 Online Food Shop
   - 🔹 Portfolio Website 
   - 🔹 Temperature Converter
+  - 🔹 Student-Grade-Management-System
   - 🔹 Quiz App
   - 🔹 Snake Game
   - 🔹 Tic-Tac-Toe 
   - 🔹 Calculator
   - 🔹 Passward Generator
-
+  - 🔹 Digital-Clock
+  - 🔹 Colourful-Calender
+  - 🔹 Personal-Result-Tracker
+  - 🔹 Students-Data-Management-System-With-Python
+  - 🔹 Expense-Tracker-
 ---
 
 > 💬 “I aspire to be clever in everything and stay aligned with the modern world.” — *Abdur Rahman*
