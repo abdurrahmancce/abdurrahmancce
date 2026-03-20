@@ -55,6 +55,13 @@
   - 🔹 Personal-Result-Tracker
   - 🔹 Students-Data-Management-System-With-Python
   - 🔹 Expense-Tracker-
+  - 🔹 Get_all_saved_Wifi_password
+  - 🔹 Falling-Delux-Bar-Game
+  - 🔹 Library-Management-System-
+  - 🔹 Spice-Garden
+  - 🔹 Mini-System-Monitor-CPU-RAM-Disk-Network-
+  - 🔹 Python-Turtle-Graphics
+  - 🔹 Advanced-Area-Plot-With-Legend-Grid-
 ---
 
 > 💬 “I aspire to be clever in everything and stay aligned with the modern world.” — *Abdur Rahman*
