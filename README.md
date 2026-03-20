@@ -39,6 +39,8 @@
 - ✅ Participated in programming contests, webinars, and workshops  
 - 🧠 Love to learn and research about new technologies
 
+---
+
 ### 🚀 Built projects like:
   - 🔹 Personal-Resume-Website
   - 🔹 Online Food Shop
