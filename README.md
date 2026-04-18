@@ -64,6 +64,8 @@
   - 🔹 Mini-System-Monitor-CPU-RAM-Disk-Network-
   - 🔹 Python-Turtle-Graphics
   - 🔹 Advanced-Area-Plot-With-Legend-Grid-
+  - 🔹 Histogram-By-Python
+  - 🔹 Neon-Grid-Animation-Python
 ---
 
 > 💬 “I aspire to be clever in everything and stay aligned with the modern world.” — *Abdur Rahman*
