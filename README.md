@@ -66,6 +66,7 @@
   - 🔹 Advanced-Area-Plot-With-Legend-Grid-
   - 🔹 Histogram-By-Python
   - 🔹 Neon-Grid-Animation-Python
+  - 🔹 Neural-Network-Visualization
 ---
 
 > 💬 “I aspire to be clever in everything and stay aligned with the modern world.” — *Abdur Rahman*
