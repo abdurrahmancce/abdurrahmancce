@@ -67,7 +67,8 @@
   - 🔹 Histogram-By-Python
   - 🔹 Neon-Grid-Animation-Python
   - 🔹 Neural-Network-Visualization
-  - 🔹Tkinter-Cheatsheet
+  - 🔹 Tkinter-Cheatsheet
+  - 🔹 Smart-AI-To-Do-App
 ---
 
 > 💬 “I aspire to be clever in everything and stay aligned with the modern world.” — *Abdur Rahman*
