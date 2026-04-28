@@ -45,6 +45,7 @@
   - 🔹 Github-Profile-Finder
   - 🔹 Personal-Resume-Website
   - 🔹 Online Food Shop
+  - 🔹 CineSearch
   - 🔹 Portfolio Website 
   - 🔹 Temperature Converter
   - 🔹 Student-Grade-Management-System
