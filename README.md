@@ -42,6 +42,7 @@
 ---
 
 ### 🚀 Built projects like:
+  - 🔹 Github-Profile-Finder
   - 🔹 Personal-Resume-Website
   - 🔹 Online Food Shop
   - 🔹 Portfolio Website 
