@@ -45,6 +45,7 @@
   - 🔹 Github-Profile-Finder
   - 🔹 Personal-Resume-Website
   - 🔹 Online Food Shop
+  - 🔹 Social-Media-Mini-Clone
   - 🔹 AuthVault
   - 🔹 CineSearch
   - 🔹 Portfolio Website 
