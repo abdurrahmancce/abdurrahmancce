@@ -50,6 +50,7 @@
   - 🔹 CineSearch
   - 🔹 Portfolio Website 
   - 🔹 Temperature Converter
+  - 🔹 URL-Status-Checker
   - 🔹 Student-Grade-Management-System
   - 🔹 Quiz App
   - 🔹 Snake Game
