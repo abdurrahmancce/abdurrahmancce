@@ -44,6 +44,8 @@
 ### 🚀 Built projects like:
   - 🔹 Github-Profile-Finder
   - 🔹 Personal-Resume-Website
+  - 🔹 Real-Time-Currency-Converter
+  - 🔹 SnapShot-Pro
   - 🔹 Online Food Shop
   - 🔹 Social-Media-Mini-Clone
   - 🔹 AuthVault
