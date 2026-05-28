@@ -46,6 +46,7 @@
   - 🔹 Personal-Resume-Website
   - 🔹 Real-Time-Currency-Converter
   - 🔹 SnapShot-Pro
+  - 🔹 Email-Slicer
   - 🔹 Online Food Shop
   - 🔹 Social-Media-Mini-Clone
   - 🔹 AuthVault
