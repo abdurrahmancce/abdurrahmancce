@@ -42,6 +42,7 @@
 ---
 
 ### 🚀 Built projects like:
+  - 🔹 Smart-Clipboard-Manager-Pro
   - 🔹 Github-Profile-Finder
   - 🔹 Personal-Resume-Website
   - 🔹 Real-Time-Currency-Converter
