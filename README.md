@@ -42,42 +42,92 @@
 ---
 
 ### 🚀 Built projects like:
-  - 🔹 Smart-Clipboard-Manager-Pro
-  - 🔹 Github-Profile-Finder
-  - 🔹 Personal-Resume-Website
-  - 🔹 Real-Time-Currency-Converter
-  - 🔹 Distance-Calculator
-  - 🔹 SnapShot-Pro
-  - 🔹 Email-Slicer
-  - 🔹 Social-Media-Mini-Clone
-  - 🔹 AuthVault
-  - 🔹 CineSearch
-  - 🔹 Portfolio Website 
-  - 🔹 Temperature Converter
-  - 🔹 URL-Status-Checker
-  - 🔹 Student-Grade-Management-System
-  - 🔹 Quiz App
-  - 🔹 Snake Game
-  - 🔹 Tic-Tac-Toe 
-  - 🔹 Calculator
-  - 🔹 Passward Generator
-  - 🔹 Digital-Clock
-  - 🔹 Colourful-Calender
-  - 🔹 Personal-Result-Tracker
-  - 🔹 Students-Data-Management-System-With-Python
-  - 🔹 Expense-Tracker-
-  - 🔹 Get_all_saved_Wifi_password
-  - 🔹 Falling-Delux-Bar-Game
-  - 🔹 Library-Management-System-
-  - 🔹 Spice-Garden
-  - 🔹 Mini-System-Monitor-CPU-RAM-Disk-Network-
-  - 🔹 Python-Turtle-Graphics
-  - 🔹 Advanced-Area-Plot-With-Legend-Grid-
-  - 🔹 Histogram-By-Python
-  - 🔹 Neon-Grid-Animation-Python
-  - 🔹 Neural-Network-Visualization
-  - 🔹 Tkinter-Cheatsheet
-  - 🔹 Smart-AI-To-Do-App
+  # 🚀 My Projects Portfolio (A–Z)
+
+- 🔹 Advance-Age-Calculator  
+- 🔹 Advanced-Alarm-Clock  
+- 🔹 Advanced-Area-Plot-With-Legend-Grid-  
+- 🔹 Advanced-Donut-Chart-Visualization  
+- 🔹 Advanced-Screen-Recorder  
+- 🔹 Achievements  
+- 🔹 Attendance-Management-System  
+- 🔹 AuthVault  
+- 🔹 C-Programming-Project  
+- 🔹 C.cpp-practice  
+- 🔹 C-practices  
+- 🔹 Calculator-in-Web  
+- 🔹 CineSearch  
+- 🔹 Colourful-Calender  
+- 🔹 Contact-Book  
+- 🔹 Countdown-Event-Manager  
+- 🔹 Data-Structure-Algorithm  
+- 🔹 Digital-Clock  
+- 🔹 Digital-Clock-GUI-  
+- 🔹 Distance-Calculator  
+- 🔹 Eid-al-Adha-Mubarak  
+- 🔹 Eid-Mubarak-  
+- 🔹 Email-Slicer  
+- 🔹 Expense-Tracker  
+- 🔹 Expense-Tracker-Year-wise-  
+- 🔹 Falling-Delux-Bar-Game  
+- 🔹 Get_all_saved_Wifi_password  
+- 🔹 Github-Profile-Finder  
+- 🔹 Happy-Mother-s-Day-Wish-  
+- 🔹 Histogram-By-Python  
+- 🔹 Image-Making-by-Ai  
+- 🔹 Kanban-Board-  
+- 🔹 Library-Management-System-  
+- 🔹 Life-Analytics  
+- 🔹 Life-Analytics-Dashboard-  
+- 🔹 Life-Tracking  
+- 🔹 Meal-Tracker  
+- 🔹 Mini-System-Monitor-CPU-RAM-Disk-Network-  
+- 🔹 Neon-Grid-Animation-Python-  
+- 🔹 Neural-Network-Visualization  
+- 🔹 Number-Guessing-Game  
+- 🔹 Online-FoodShop-Project  
+- 🔹 Password-Generator-  
+- 🔹 PDF-Merger-Pro  
+- 🔹 Personal-Result-Tracker  
+- 🔹 Personal-Resume-Website  
+- 🔹 Python-Libraries  
+- 🔹 Python-Practices  
+- 🔹 Python-Turtle-Graphics  
+- 🔹 Quiz-App  
+- 🔹 Real-Time-Currency-Converter  
+- 🔹 Simple-GUI-Calculator  
+- 🔹 Smart-AI-To-Do-App  
+- 🔹 Smart-Clipboard-Manager-Pro  
+- 🔹 SnapShot-Pro  
+- 🔹 Snake-Game  
+- 🔹 Social-Media-Mini-Clone  
+- 🔹 Spice-Garden  
+- 🔹 Star-Pyramid-using-Python  
+- 🔹 Student-Grade-Management-System-  
+- 🔹 Students-Data-Management-System-With-Python  
+- 🔹 Tic-Tac-Toe-Game-by-Web-Project  
+- 🔹 Tkinter-Cheatsheet  
+- 🔹 To-Do-Pro  
+- 🔹 Trafalgar-Landing-Page  
+- 🔹 Typing-Speed-Test-App  
+- 🔹 Unit-Converter  
+- 🔹 URL-Status-Checker  
+- 🔹 Voice-to-Text-Translator  
+- 🔹 Weather-Dashboard  
+- 🔹 Web-Development-Practices  
+- 🔹 Web-Development-Project  
+- 🔹 WiFi-Password-Viewer-Pro  
+
+## 📊 Statistics
+
+- 🐍 Python Projects
+- 🌐 Web Development Projects
+- ☕ Java Projects
+- ⚙️ C/C++ Projects
+- 📱 GUI Applications
+- 📊 Data Visualization Projects
+- 🎮 Games & Entertainment Projects
+- 🛠️ Utility & Productivity Tools
 ---
 
 > 💬 “I aspire to be clever in everything and stay aligned with the modern world.” — *Abdur Rahman*
