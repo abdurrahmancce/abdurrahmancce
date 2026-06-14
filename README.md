@@ -46,6 +46,7 @@
   - 🔹 Github-Profile-Finder
   - 🔹 Personal-Resume-Website
   - 🔹 Real-Time-Currency-Converter
+  - 🔹 Distance-Calculator
   - 🔹 SnapShot-Pro
   - 🔹 Email-Slicer
   - 🔹 Social-Media-Mini-Clone
