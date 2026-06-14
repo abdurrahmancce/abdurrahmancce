@@ -42,8 +42,6 @@
 ---
 
 ### 🚀 Built projects like:
-  # 🚀 My Projects Portfolio (A–Z)
-
 - 🔹 Advance-Age-Calculator  
 - 🔹 Advanced-Alarm-Clock  
 - 🔹 Advanced-Area-Plot-With-Legend-Grid-  
