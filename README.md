@@ -46,8 +46,7 @@
 - 🔹 Advanced-Alarm-Clock  
 - 🔹 Advanced-Area-Plot-With-Legend-Grid-  
 - 🔹 Advanced-Donut-Chart-Visualization  
-- 🔹 Advanced-Screen-Recorder  
-- 🔹 Achievements  
+- 🔹 Advanced-Screen-Recorder   
 - 🔹 Attendance-Management-System  
 - 🔹 AuthVault  
 - 🔹 C-Programming-Project  
