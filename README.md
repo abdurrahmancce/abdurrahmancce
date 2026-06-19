@@ -71,7 +71,6 @@
 - 🔹 Github-Profile-Finder  
 - 🔹 Happy-Mother-s-Day-Wish-  
 - 🔹 Histogram-By-Python  
-- 🔹 Image-Making-by-Ai  
 - 🔹 Kanban-Board-  
 - 🔹 Library-Management-System-  
 - 🔹 Life-Analytics  
