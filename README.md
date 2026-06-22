@@ -111,7 +111,6 @@
 - 🔹 Voice-to-Text-Translator  
 - 🔹 Weather-Dashboard  
 - 🔹 Web-Development-Practices  
-- 🔹 Web-Development-Project  
 - 🔹 WiFi-Password-Viewer-Pro  
 
 ## 📊 Statistics
