@@ -74,8 +74,7 @@
 - 🔹 Histogram-By-Python  
 - 🔹 Kanban-Board-  
 - 🔹 Library-Management-System-  
-- 🔹 Life-Analytics  
-- 🔹 Life-Analytics-Dashboard-  
+- 🔹 Life-Analytics    
 - 🔹 Life-Tracking  
 - 🔹 Meal-Tracker  
 - 🔹 Mini-System-Monitor-CPU-RAM-Disk-Network-  
@@ -101,7 +100,7 @@
 - 🔹 Spice-Garden  
 - 🔹 Star-Pyramid-using-Python  
 - 🔹 Student-Grade-Management-System-  
-- 🔹 Students-Data-Management-System-With-Python  
+- 🔹 Students-Data-Management-System-With-Python 
 - 🔹 Tic-Tac-Toe-Game-by-Web-Project  
 - 🔹 Tkinter-Cheatsheet  
 - 🔹 To-Do-Pro  
