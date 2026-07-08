@@ -86,7 +86,6 @@
 - 🔹 Personal-Result-Tracker  
 - 🔹 Personal-Resume-Website  
 - 🔹 Python-Libraries  
-- 🔹 Python-Practices  
 - 🔹 Python-Turtle-Graphics  
 - 🔹 Quiz-App  
 - 🔹 Real-Time-Currency-Converter  
