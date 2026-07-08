@@ -73,8 +73,7 @@
 - 🔹 Happy-Mother-s-Day-Wish-  
 - 🔹 Histogram-By-Python  
 - 🔹 Kanban-Board-  
-- 🔹 Library-Management-System-  
-- 🔹 Life-Analytics    
+- 🔹 Library-Management-System-      
 - 🔹 Life-Tracking  
 - 🔹 Meal-Tracker  
 - 🔹 Mini-System-Monitor-CPU-RAM-Disk-Network-  
