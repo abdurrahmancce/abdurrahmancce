@@ -51,8 +51,6 @@
 - 🔹 Attendance-Management-System  
 - 🔹 AuthVault  
 - 🔹 C-Programming-Project  
-- 🔹 C.cpp-practice  
-- 🔹 C-practices  
 - 🔹 Calculator-in-Web  
 - 🔹 CineSearch  
 - 🔹 Colourful-Calender  
