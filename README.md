@@ -49,8 +49,7 @@
 - 🔹 Advanced-Screen-Recorder
 - 🔹 AI-News-Analyzer
 - 🔹 Attendance-Management-System  
-- 🔹 AuthVault  
-- 🔹 C-Programming-Project  
+- 🔹 AuthVault   
 - 🔹 Calculator-in-Web  
 - 🔹 CineSearch  
 - 🔹 Colourful-Calender  
