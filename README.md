@@ -83,8 +83,7 @@
 - 🔹 Personal-Result-Tracker  
 - 🔹 Personal-Resume-Website  
 - 🔹 Python-Libraries  
-- 🔹 Python-Turtle-Graphics  
-- 🔹 Quiz-App  
+- 🔹 Python-Turtle-Graphics    
 - 🔹 Real-Time-Currency-Converter  
 - 🔹 Simple-GUI-Calculator  
 - 🔹 Smart-AI-To-Do-App  
