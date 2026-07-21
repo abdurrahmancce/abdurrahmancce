@@ -103,7 +103,6 @@
 - 🔹 URL-Status-Checker  
 - 🔹 Voice-to-Text-Translator  
 - 🔹 Weather-Dashboard  
-- 🔹 Web-Development-Practices  
 - 🔹 WiFi-Password-Viewer-Pro  
 
 ## 📊 Statistics
