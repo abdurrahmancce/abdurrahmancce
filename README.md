@@ -96,8 +96,7 @@
 - 🔹 Student-Grade-Management-System-  
 - 🔹 Students-Data-Management-System-With-Python 
 - 🔹 Tic-Tac-Toe-Game-by-Web-Project  
-- 🔹 To-Do-Pro  
-- 🔹 Trafalgar-Landing-Page  
+- 🔹 To-Do-Pro   
 - 🔹 Typing-Speed-Test-App  
 - 🔹 Unit-Converter  
 - 🔹 URL-Status-Checker  
