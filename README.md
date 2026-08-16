@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
 <h3 align="center"> Full Stack Web Developer, Problem Solver, exploring AI, and becoming future-ready</h3>
 
-- 🌱 I’m currently learning **Python, DSA, and Machine Learning**
+- 🌱 I’m currently learning **Python, DSA, AI & Machine Learning**
 - 🛠️ Skilled in **C, C++, Java, Python, Django, React, HTML, CSS, JavaScript, SQL**
 - 📬 Reach me at: **akash.abdur.2002@gmail.com**
 - 🌐 Portfolio:(https://abdurrahmancce.github.io/Personal-Resume-Website/)
