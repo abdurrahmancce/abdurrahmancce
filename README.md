@@ -97,10 +97,24 @@ Research                 ████████████████░░�
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/abdur-rahman-akash26/">LinkedIn</a> ·
-  <a href="https://abdurrahmancce.github.io/Personal-Portfolio/">Portfolio</a> ·
-  <a href="https://codeforces.com/profile/akash.abdur.2002">Codeforces</a> ·
-  <a href="mailto:akash.abdur.2002@gmail.com">Email</a>
+  <a href="https://github.com/abdurrahmancce">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/abdur-rahman-akash26/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:akash.abdur.2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://abdurrahmancce.github.io/Personal-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://codeforces.com/profile/akash.abdur.2002">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
 </p>
 
 ---
