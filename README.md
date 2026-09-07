@@ -61,14 +61,14 @@ Building practical software, experimenting with AI, and turning ideas into usefu
 
 I keep my profile focused on projects that best demonstrate my current engineering direction.
 
-| Project | Focus | Stack |
-|---|---|---|
-| [Student Performance Prediction AI](https://github.com/abdurrahmancce/Student-Performance-Prediction-AI) | Student outcome prediction | Python, Pandas, Scikit-learn |
-| [Machine Learning Based Conflict Detection](https://github.com/abdurrahmancce/Machine-Learning-Based-Conflict-Detection-) | SRS conflict detection | Python, NLP, ML |
-| [Hotel Reservation System](https://github.com/abdurrahmancce/Hotel-Reservation-System) | Relational database system | MySQL, SQL, DBMS |
-| [AI News Analyzer](https://github.com/abdurrahmancce/AI-News-Analyzer) | News summarization & sentiment analysis | Python, Tkinter, AI |
-| [Personal Portfolio](https://github.com/abdurrahmancce/Personal-Portfolio) | Developer portfolio | HTML, CSS, JavaScript |
-| [Life Tracking](https://github.com/abdurrahmancce/Life-Tracking) | Personal analytics dashboard | HTML, CSS, JavaScript |
+| Project                                                                                                                   | Focus                                   | Stack                                     |
+| ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------- |
+| [Student Performance Prediction AI](https://github.com/abdurrahmancce/Student-Performance-Prediction-AI)                  | Student outcome prediction              | Python, Pandas, Scikit-learn              |
+| [Machine Learning Based Conflict Detection](https://github.com/abdurrahmancce/Machine-Learning-Based-Conflict-Detection-) | SRS conflict detection                  | Python, NLP, ML                           |
+| [Hotel Reservation System](https://github.com/abdurrahmancce/Hotel-Reservation-System)                                    | Relational database system              | MySQL, SQL, DBMS                          |
+| [AI News Analyzer](https://github.com/abdurrahmancce/AI-News-Analyzer)                                                    | News summarization & sentiment analysis | Python, Tkinter, AI                       |
+| [Expense Tracker](https://github.com/abdurrahmancce/expense-tracker)                                                      | Personal finance & expense analytics    | HTML, CSS, JavaScript, Firebase, Chart.js |
+| [Personal Portfolio](https://github.com/abdurrahmancce/Personal-Portfolio)                                                | Developer portfolio                     | HTML, CSS, JavaScript                     |
 
 > See all repositories on my [GitHub profile](https://github.com/abdurrahmancce?tab=repositories).
 
